@@ -1,0 +1,16 @@
+h2{
+    padding: 2px;
+}
+h1{
+    font-size: 44px;
+    text-align: center;
+}
+.ham_menu{
+    padding: 2em;
+    float: right;
+}
+.socialm{
+    width: 22px;
+    margin: 20px;
+    align-items: center;
+}
